@@ -1,2 +1,4 @@
 alert('oi oi'); //comentario
-console.log("Hello world");
+console.log("Hello world 2");
+
+alert("I like coffee!");
