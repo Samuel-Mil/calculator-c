@@ -1,5 +1,6 @@
 #ifndef SOMA_H 
 #define SOMA_H
+//
 #include <stdio.h>
 int soma(int soman1, int soman2){
   scanf("%d", &soman1);
