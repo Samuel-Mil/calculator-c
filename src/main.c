@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "soma.h"
+#include "../includes/soma.h"
 
 int main()
 {
