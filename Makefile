@@ -1,3 +1,3 @@
 all:
-	gcc src/*.c -o bin/calculadora.out
+	gcc src/*.c -lm -o bin/calculadora.out
 	./bin/calculadora.out
