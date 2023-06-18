@@ -2,9 +2,7 @@
 #define SOMA_H
 //
 #include <stdio.h>
-int soma(int soman1, int soman2){
-  scanf("%d", &soman1);
-  scanf("%d", &soman2);
-  return soman1 + soman2;
+float soma(float val1, float val2){
+  return val1 + val2;
 }
 #endif // !DEBUG
