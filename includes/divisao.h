@@ -1,4 +1,4 @@
-#infed DIVISAO_
+#ifndef DIVISAO_H
 #define DIVISAO_H
 //
 #include <stdio.h>
